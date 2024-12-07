@@ -1,0 +1,52 @@
+11:22:17.722 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+11:22:17.759 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+11:22:18.485 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+11:22:18.631 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+11:22:19.560 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+11:23:24.902 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+11:23:24.931 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+11:23:25.662 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+11:23:25.825 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+11:23:26.778 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+12:56:44.369 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+12:56:59.146 [main] DEBUG testCases.TC_004search - **** Success message failed *****
+17:14:20.014 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:14:20.046 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:14:20.779 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:14:20.924 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:14:21.858 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+17:15:00.090 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:15:00.126 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:15:01.164 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:15:01.322 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:15:03.377 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+17:17:38.125 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:17:38.160 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:17:39.018 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:17:39.164 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:17:40.189 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+17:19:01.176 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:19:01.202 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:19:01.923 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:19:02.058 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:19:02.983 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+17:23:43.339 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:23:43.370 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:23:44.073 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:23:44.209 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:23:45.077 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+17:23:59.491 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+17:23:59.491 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+17:24:01.219 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+17:24:01.402 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+17:24:02.441 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+18:59:00.229 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+18:59:00.271 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+18:59:01.204 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+18:59:01.387 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+18:59:02.446 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+19:17:09.143 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+19:17:09.169 [main] INFO  testCases.TC_001Account_Registration - Entering random names
+19:17:10.012 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
+19:17:10.247 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+19:17:11.270 [main] INFO  testCases.TC_001Account_Registration - Test case finished
