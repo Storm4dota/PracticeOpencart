@@ -23,10 +23,13 @@ public class AccountRegistrationPage extends BasePage {
 	@FindBy(xpath="//input[@id='input-telephone']") WebElement txt_tele;
 	@FindBy(xpath="//input[@id='input-password']") WebElement txt_pass;
 	@FindBy(xpath="//input[@id='input-confirm']") WebElement txt_cpass;
+	@FindBy(xpath="//label[normalize-space()='Yes']//input[@name='newsletter']") WebElement SubYes_btn;
+	@FindBy(xpath="//input[@value='0']") WebElement SubNo_btn;
 	@FindBy(xpath="//input[@name='agree']") WebElement btn_privacy;
 	@FindBy(xpath="//input[@value='Continue']") WebElement btn_conti;
 	@FindBy(xpath="//h1[normalize-space()='Your Account Has Been Created!']") WebElement confirmMsg;
 	@FindBy(xpath="//input[@value='0']") WebElement SubNo;
+	
 	
 	public void firstname(String fname)
 	{
@@ -56,6 +59,11 @@ public class AccountRegistrationPage extends BasePage {
 	{
 		txt_cpass.sendKeys(cpass);
 	}
+	public void SubYes()
+	{
+		SubYes_btn.click();
+	}
+	
 	public void privacypolicy()
 	{
 		btn_privacy.click();

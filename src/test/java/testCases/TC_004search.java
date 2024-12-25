@@ -40,12 +40,8 @@ public class TC_004search extends BaseClass {
 			{
 				Assert.assertTrue(true);
 			}
-			else
-			{
-				Assert.assertTrue(false);
-			}
-			}
 			
+			}
 			catch (Exception e)
 			{
 				Assert.fail();

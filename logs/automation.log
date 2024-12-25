@@ -1,19 +1,11 @@
-11:07:43.406 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\PracticeOpencart\testng.xml"
-11:08:16.839 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\PracticeOpencart\testng.xml"
-11:08:27.967 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
-11:08:27.995 [main] INFO  testCases.TC_001Account_Registration - Entering random names
-11:08:28.738 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
-11:08:28.903 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
-11:08:29.864 [main] INFO  testCases.TC_001Account_Registration - Test case finished
-11:16:33.396 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\PracticeOpencart\testng.xml"
-11:16:39.627 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
-11:16:39.670 [main] INFO  testCases.TC_001Account_Registration - Entering random names
-11:16:40.456 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
-11:16:40.624 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
-11:16:41.565 [main] INFO  testCases.TC_001Account_Registration - Test case finished
-11:21:18.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\PracticeOpencart\testng.xml"
-11:21:23.662 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
-11:21:23.701 [main] INFO  testCases.TC_001Account_Registration - Entering random names
-11:21:24.659 [main] INFO  testCases.TC_001Account_Registration - Entering random email and phone no.
-11:21:25.187 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
-11:21:26.814 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+16:36:48.869 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
+16:36:49.048 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
+16:36:49.187 [main] INFO  testCases.TC_001Account_Registration - Entering random email
+16:36:49.290 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
+16:36:49.380 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+16:36:49.466 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
+16:36:49.564 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
+16:36:49.702 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:36:49.774 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:36:50.420 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:36:50.420 [main] INFO  testCases.TC_001Account_Registration - Test case finished

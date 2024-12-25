@@ -5,7 +5,7 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Testng(failed)">
-    <parameter name="os" value="Linux"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
       <class name="testCases.TC_001Account_Registration">

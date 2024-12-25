@@ -1,0 +1,54 @@
+16:10:47.245 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:10:47.318 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:10:57.763 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:10:57.764 [main] ERROR testCases.TC_001Account_Registration - Test failed..
+16:10:57.764 [main] DEBUG testCases.TC_001Account_Registration - debug logs..
+16:12:27.090 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+16:12:27.762 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
+16:12:27.854 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
+16:12:27.923 [main] INFO  testCases.TC_001Account_Registration - Entering random email
+16:12:28.000 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
+16:12:28.067 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+16:12:28.133 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
+16:12:28.196 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
+16:12:28.261 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:12:28.327 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:12:28.958 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:12:28.960 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+16:29:43.545 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+16:29:44.184 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
+16:29:44.285 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
+16:29:44.369 [main] INFO  testCases.TC_001Account_Registration - Entering random email
+16:29:44.457 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
+16:29:44.528 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+16:29:44.599 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
+16:29:44.684 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
+16:29:44.768 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:29:44.834 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:29:45.458 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:29:45.460 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+16:30:52.595 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+16:30:53.211 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
+16:30:53.302 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
+16:30:53.371 [main] INFO  testCases.TC_001Account_Registration - Entering random email
+16:30:53.446 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
+16:30:53.511 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+16:30:53.573 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
+16:30:53.650 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
+16:30:53.720 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:30:53.781 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:30:54.413 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:30:54.415 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+16:36:30.925 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
+16:36:31.563 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
+16:36:31.666 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
+16:36:31.755 [main] INFO  testCases.TC_001Account_Registration - Entering random email
+16:36:31.846 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
+16:36:31.928 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
+16:36:32.006 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
+16:36:32.102 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
+16:36:32.199 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
+16:36:32.303 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
+16:36:32.947 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
+16:36:32.949 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+16:36:44.790 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********

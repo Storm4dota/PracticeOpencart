@@ -8,6 +8,7 @@ utilities\ExcelUtility.class
 pageObjects\AccountRegistrationPage.class
 pageObjects\LoginPage.class
 pageObjects\BasePage.class
+testCases\TC_005newfunction.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class
 testBases\BaseClass.class
