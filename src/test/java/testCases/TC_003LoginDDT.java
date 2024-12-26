@@ -28,7 +28,7 @@ public class TC_003LoginDDT extends BaseClass {
 		lp.clicklogin();
 		
 		MyAccountPage map=new MyAccountPage(driver);
-		Boolean targetpage=map.myaccount();
+		Boolean targetpage=map.myaccountpage();
 		
 		if(exp.equalsIgnoreCase("Valid"))
 		{
