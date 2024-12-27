@@ -1,65 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-26T12:15:18 IST" name="Suite" finished-at="2024-12-26T12:15:40 IST" duration-ms="21289">
+  <suite started-at="2024-12-27T18:49:29 IST" name="Suite" finished-at="2024-12-27T18:49:42 IST" duration-ms="12601">
     <groups>
     </groups>
-    <test started-at="2024-12-26T12:15:18 IST" name="ChromeTest" finished-at="2024-12-26T12:15:27 IST" duration-ms="9132">
-      <class name="testCases.TC_002login">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002login@34123d65]" started-at="2024-12-26T12:15:18 IST" name="setup" finished-at="2024-12-26T12:15:23 IST" duration-ms="4868" status="PASS">
+    <test started-at="2024-12-27T18:49:29 IST" name="Test" finished-at="2024-12-27T18:49:42 IST" duration-ms="12601">
+      <class name="testCases.TS_003Logout">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TS_003Logout@59474f18]" started-at="2024-12-27T18:49:29 IST" name="setup" finished-at="2024-12-27T18:49:35 IST" duration-ms="5289" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Windows]]>
+                <![CDATA[windows]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Chrome]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC_002login@34123d65]" started-at="2024-12-26T12:15:23 IST" name="verifyLogin" finished-at="2024-12-26T12:15:24 IST" duration-ms="1108" status="PASS">
+        <test-method signature="verifyLogout()[pri:0, instance:testCases.TS_003Logout@59474f18]" started-at="2024-12-27T18:49:35 IST" name="verifyLogout" finished-at="2024-12-27T18:49:39 IST" duration-ms="3876" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_002login@34123d65]" started-at="2024-12-26T12:15:24 IST" name="teardown" finished-at="2024-12-26T12:15:27 IST" duration-ms="3122" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC_002login -->
-    </test> <!-- ChromeTest -->
-    <test started-at="2024-12-26T12:15:27 IST" name="EdgeTest" finished-at="2024-12-26T12:15:40 IST" duration-ms="12130">
-      <class name="testCases.TC_002login">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002login@dd05255]" started-at="2024-12-26T12:15:27 IST" name="setup" finished-at="2024-12-26T12:15:35 IST" duration-ms="7381" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC_002login@dd05255]" started-at="2024-12-26T12:15:35 IST" name="verifyLogin" finished-at="2024-12-26T12:15:36 IST" duration-ms="1465" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_002login@dd05255]" started-at="2024-12-26T12:15:36 IST" name="teardown" finished-at="2024-12-26T12:15:40 IST" duration-ms="3280" status="PASS">
+        </test-method> <!-- verifyLogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TS_003Logout@59474f18]" started-at="2024-12-27T18:49:39 IST" name="teardown" finished-at="2024-12-27T18:49:42 IST" duration-ms="3100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- testCases.TC_002login -->
-    </test> <!-- EdgeTest -->
+      </class> <!-- testCases.TS_003Logout -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

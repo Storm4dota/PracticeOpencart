@@ -18,7 +18,7 @@ public class TC_001Account_Registration extends BaseClass {
 	{
 		try
 		{
-		Thread.sleep(3000);
+		
 		logger.info("****** Starting TC_001Account_Registration ********");
 		AccountRegistrationPage Acp=new AccountRegistrationPage(driver);
 		

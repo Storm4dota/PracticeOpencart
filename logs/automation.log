@@ -1,63 +1,10 @@
-11:23:55.151 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:06.422 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:06.439 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:17.429 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:17.433 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:18.971 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:18.977 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:29.969 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:29.972 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:41.123 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:41.126 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:24:52.054 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:24:52.057 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT Started ******
-11:25:03.070 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
-11:42:42.492 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-11:42:42.527 [main] INFO  testCases.TC_002login - clicking my account
-11:42:42.610 [main] INFO  testCases.TC_002login - clicking my login
-11:42:42.839 [main] INFO  testCases.TC_002login - entering email
-11:42:42.945 [main] INFO  testCases.TC_002login - entering password
-11:42:43.036 [main] INFO  testCases.TC_002login - clicking login button
-11:42:43.498 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-11:43:19.772 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-11:43:19.807 [main] INFO  testCases.TC_002login - clicking my account
-11:43:19.881 [main] INFO  testCases.TC_002login - clicking my login
-11:43:20.107 [main] INFO  testCases.TC_002login - entering email
-11:43:20.223 [main] INFO  testCases.TC_002login - entering password
-11:43:20.328 [main] INFO  testCases.TC_002login - clicking login button
-11:43:20.798 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-11:44:25.189 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-11:44:25.222 [main] INFO  testCases.TC_002login - clicking my account
-11:44:25.308 [main] INFO  testCases.TC_002login - clicking my login
-11:44:25.539 [main] INFO  testCases.TC_002login - entering email
-11:44:25.662 [main] INFO  testCases.TC_002login - entering password
-11:44:25.750 [main] INFO  testCases.TC_002login - clicking login button
-11:44:27.388 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-12:13:55.902 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-12:13:55.928 [main] INFO  testCases.TC_002login - clicking my account
-12:13:56.005 [main] INFO  testCases.TC_002login - clicking my login
-12:13:56.272 [main] INFO  testCases.TC_002login - entering email
-12:13:56.394 [main] INFO  testCases.TC_002login - entering password
-12:13:56.487 [main] INFO  testCases.TC_002login - clicking login button
-12:13:57.974 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-12:14:08.459 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-12:14:08.459 [main] INFO  testCases.TC_002login - clicking my account
-12:14:08.598 [main] INFO  testCases.TC_002login - clicking my login
-12:14:08.859 [main] INFO  testCases.TC_002login - entering email
-12:14:09.010 [main] INFO  testCases.TC_002login - entering password
-12:15:23.648 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-12:15:23.670 [main] INFO  testCases.TC_002login - clicking my account
-12:15:23.738 [main] INFO  testCases.TC_002login - clicking my login
-12:15:23.983 [main] INFO  testCases.TC_002login - entering email
-12:15:24.089 [main] INFO  testCases.TC_002login - entering password
-12:15:24.162 [main] INFO  testCases.TC_002login - clicking login button
-12:15:24.707 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-12:15:24.742 [main] INFO  testCases.TC_002login - ******* TC_002Login Finished
-12:15:35.280 [main] INFO  testCases.TC_002login - ******** TC002_login started*****
-12:15:35.281 [main] INFO  testCases.TC_002login - clicking my account
-12:15:35.367 [main] INFO  testCases.TC_002login - clicking my login
-12:15:35.919 [main] INFO  testCases.TC_002login - entering email
-12:15:36.046 [main] INFO  testCases.TC_002login - entering password
-12:15:36.134 [main] INFO  testCases.TC_002login - clicking login button
-12:15:36.683 [main] INFO  testCases.TC_002login - checking Myaccountpage header
-12:15:36.743 [main] INFO  testCases.TC_002login - ******* TC_002Login Finished
+18:43:09.813 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
+18:43:11.828 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
+18:44:18.968 [main] INFO  testCases.TS_003Logout - **** Logout started **** 
+18:44:19.361 [main] INFO  testCases.TS_003Logout - **** Entering Email and password **** 
+18:44:20.125 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
+18:44:22.127 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
+18:49:35.148 [main] INFO  testCases.TS_003Logout - **** Logout started **** 
+18:49:35.519 [main] INFO  testCases.TS_003Logout - **** Entering Email and password **** 
+18:49:36.305 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
+18:49:38.306 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
