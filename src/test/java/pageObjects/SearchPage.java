@@ -23,6 +23,8 @@ public class SearchPage extends BasePage {
 	
 	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']") WebElement cartsucc_msg;
 	
+	@FindBy(xpath="//a[normalize-space()='iMac']") WebElement imac_icon;
+	
 	public void searchtxt(String txt)
 	{
 		search_inputtxt.sendKeys(txt);
@@ -53,6 +55,10 @@ public class SearchPage extends BasePage {
 	public void addcartphone()
 	{
 		addcart.click();
+	}
+	public boolean imaccheck()
+	{
+		return imac_icon.isDisplayed();
 	}
 	public String  sucessmsg()
 	{

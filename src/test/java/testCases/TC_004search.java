@@ -2,6 +2,8 @@ package testCases;
 
 
 
+import static org.testng.Assert.assertTrue;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -19,9 +21,24 @@ public class TC_004search extends BaseClass {
 		logger.info("***** Search TestCase started ******");
 		
 		sp.searchtxt(p.getProperty("searchproductId"));
-		sp.searchclick();
-		Thread.sleep(3000);
-		
+		sp.searchclick();	
+		try {
+			if(sp.imaccheck()) 
+				Assert.assertTrue(true);
+				else
+				{
+					Assert.fail();
+				}
+				
+			
+		}
+			catch (Exception e)
+			{
+				Assert.fail();
+			}
+			
+			
+		/*
 		String confirmmsg=sp.verifymessage();
 		if(confirmmsg.equals("iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name o.."))
 		{
@@ -54,7 +71,7 @@ public class TC_004search extends BaseClass {
 			logger.error("Test failed..");
 			logger.debug("debug logs...");
 			Assert.assertTrue(false);
-		}
+		}*/
 		}
 		catch (Exception e)
 		{

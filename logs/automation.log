@@ -8,3 +8,8 @@
 18:49:35.519 [main] INFO  testCases.TS_003Logout - **** Entering Email and password **** 
 18:49:36.305 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
 18:49:38.306 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
+17:48:09.856 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+18:13:26.298 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+18:23:59.415 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+18:24:29.793 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+23:11:17.077 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
