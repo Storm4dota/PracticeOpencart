@@ -25,6 +25,18 @@ public class SearchPage extends BasePage {
 	
 	@FindBy(xpath="//a[normalize-space()='iMac']") WebElement imac_icon;
 	
+	@FindBy(xpath="//p[contains(text(),'There is no product that matches the search criter')]") WebElement NoProFound;
+	
+	@FindBy(xpath="\r\n"
+			+ "//img[@title='MacBook']\r\n"
+			+ "//img[@title='iMac']\r\n"
+			+ "//img[@title='MacBook Air']\r\n"
+			+ "//img[@title='MacBook Pro']") WebElement multipleProducts;
+	public boolean MultiProd()
+	{
+		return multipleProducts.isDisplayed();
+	}
+	
 	public void searchtxt(String txt)
 	{
 		search_inputtxt.sendKeys(txt);
@@ -72,6 +84,11 @@ public class SearchPage extends BasePage {
 		} 
 		
 				
+	}
+	
+	public boolean NoprodFoundMessage()
+	{
+		return NoProFound.isDisplayed();
 	}
 	
 	
