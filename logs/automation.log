@@ -23,3 +23,9 @@
 22:31:13.649 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
 22:31:13.698 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
 22:31:14.091 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
+16:57:19.610 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
+16:57:19.673 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+16:57:20.083 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
+16:57:44.217 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
+16:57:44.222 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+16:57:45.886 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****

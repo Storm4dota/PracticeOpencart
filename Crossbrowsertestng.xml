@@ -7,7 +7,8 @@
   <parameter name="browser" value="Chrome"/>
     <classes>
      <!-- <class name="testCases.TC_001Account_Registration"/> -->
-     <class name="testCases.TC_002login"/>
+   <!--   <class name="testCases.TC_002login"/> -->
+   <class name="testCases.TC_004search"/>
     </classes>
   </test> <!-- Test -->
   
@@ -18,7 +19,8 @@
   <parameter name="browser" value="edge"/>
     <classes>
      <!-- <class name="testCases.TC_001Account_Registration"/> -->
-     <class name="testCases.TC_002login"/>
+     <!-- <class name="testCases.TC_002login"/> -->
+     <class name="testCases.TC_004search"/>
     </classes>
   </test> <!-- Test -->
   
