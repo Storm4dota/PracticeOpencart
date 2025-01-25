@@ -1,6 +1,7 @@
 package testBases;
 
 import java.io.File;
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
@@ -74,7 +75,7 @@ public class BaseClass {
 			 default : System.out.println("No matching browser"); return;
 			 		
 			 }
-			 driver=new RemoteWebDriver(new URL("http://192.168.1.5:4444"),cap);
+			 driver=new RemoteWebDriver(new URL("http://192.168.1.4:4444"),cap);
 			 
 			 
 		 }

@@ -9,10 +9,10 @@
   <parameter name="os" value="windows"/>
   <parameter name="browser" value="chrome"/>
   <classes>
- <!-- <class name="testCases.TC_001Account_Registration"/> -->
+  <class name="testCases.TC_001Account_Registration"/>
  <class name="testCases.TC_002login"/> 
- <!-- <class name="testCases.TC_003LoginDDT"/> -->  
-  <!--<class name="testCases.TC_004search"/> -->
+ <class name="testCases.TC_003LoginDDT"/>  
+  <class name="testCases.TC_004search"/> 
   </classes>
   </test> <!-- Testng -->
 </suite> <!-- Suite -->
