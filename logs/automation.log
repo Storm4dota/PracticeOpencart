@@ -1,43 +1,4 @@
-18:43:09.813 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
-18:43:11.828 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
-18:44:18.968 [main] INFO  testCases.TS_003Logout - **** Logout started **** 
-18:44:19.361 [main] INFO  testCases.TS_003Logout - **** Entering Email and password **** 
-18:44:20.125 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
-18:44:22.127 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
-18:49:35.148 [main] INFO  testCases.TS_003Logout - **** Logout started **** 
-18:49:35.519 [main] INFO  testCases.TS_003Logout - **** Entering Email and password **** 
-18:49:36.305 [main] INFO  testCases.TS_003Logout - **** Logged in **** 
-18:49:38.306 [main] INFO  testCases.TS_003Logout - **** Logging out **** 
-17:48:09.856 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-18:13:26.298 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-18:23:59.415 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-18:24:29.793 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-23:11:17.077 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-17:24:28.288 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-17:38:46.149 [main] INFO  testCases.TC_004search - ****** TC_SF_004 started*****
-17:42:15.808 [main] INFO  testCases.TC_004search - ****** TC_SF_004 started*****
-17:42:16.899 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-17:54:21.134 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
-17:54:21.168 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-17:54:21.612 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
-22:31:13.649 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
-22:31:13.698 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-22:31:14.091 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
-16:57:19.610 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
-16:57:19.673 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-16:57:20.083 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
-16:57:44.217 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
-16:57:44.222 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
-16:57:45.886 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
-19:27:56.677 [main] INFO  testCases.TC_001Account_Registration - ****** Starting TC_001Account_Registration ********
-19:27:57.239 [main] INFO  testCases.TC_001Account_Registration - Entering random first name
-19:27:57.382 [main] INFO  testCases.TC_001Account_Registration - Entering random last name
-19:27:57.464 [main] INFO  testCases.TC_001Account_Registration - Entering random email
-19:27:57.551 [main] INFO  testCases.TC_001Account_Registration - Entering random phone no.
-19:27:57.632 [main] INFO  testCases.TC_001Account_Registration - Entering Random password
-19:27:57.765 [main] INFO  testCases.TC_001Account_Registration - Entering Random confirm password
-19:27:57.927 [main] INFO  testCases.TC_001Account_Registration - clicking subscribe
-19:27:58.000 [main] INFO  testCases.TC_001Account_Registration - clicking privacypolicy
-19:27:58.068 [main] INFO  testCases.TC_001Account_Registration - clicking continuebutton
-19:27:58.716 [main] INFO  testCases.TC_001Account_Registration - checking confirm messsage
-19:27:58.717 [main] INFO  testCases.TC_001Account_Registration - Test case finished
+22:52:25.658 [main] INFO  testCases.TC_003LoginDDT - ******** TC_003LoginDDT finished******
+22:52:31.031 [main] INFO  testCases.TC_004search - ****** TC_SF_005 started*****
+22:52:31.043 [main] INFO  testCases.TC_004search - ***** Search TestCase started ******
+22:52:31.460 [main] INFO  testCases.TC_004search - ***** TC_SF_006*****
