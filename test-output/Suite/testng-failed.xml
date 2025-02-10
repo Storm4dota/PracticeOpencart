@@ -4,17 +4,17 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Testng(failed)">
+  <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_004search">
+      <class name="testCases.TS_006CompareProduct">
         <methods>
           <include name="teardown"/>
           <include name="setup"/>
-          <include name="verifysearch"/>
+          <include name="verifyproductcompare"/>
         </methods>
-      </class> <!-- testCases.TC_004search -->
+      </class> <!-- testCases.TS_006CompareProduct -->
     </classes>
-  </test> <!-- Testng(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
