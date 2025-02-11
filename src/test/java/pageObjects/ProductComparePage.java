@@ -17,7 +17,10 @@ public class ProductComparePage extends BasePage {
     @FindBy(xpath="//div[@id='content']//div[1]//div[1]//div[3]//button[3]//i[1]") WebElement Productcompare;
     @FindBy(xpath="//i[@class='fa fa-exchange']") WebElement CommonProductcompareEle;
     @FindBy(xpath="//div[@class='alert alert-success alert-dismissible']") WebElement SuccessMessageProductcompare;
-    
+    @FindBy(xpath="//a[normalize-space()='product comparison']") WebElement productcomparsionPage;
+    @FindBy(xpath="//i[@class='fa fa-th-list']") WebElement listview_button; //List View
+    @FindBy(xpath="//i[@class='fa fa-th']") WebElement Gridview_button; //Grid View
+    @FindBy(xpath="//a[@id='compare-total']") WebElement ProductcompareLinkPage; //PC page link
     public void breadPCclick()
     {
     	BreadcrumbProductcompare.click();
@@ -32,9 +35,28 @@ public class ProductComparePage extends BasePage {
     {
     	CommonProductcompareEle.click();
     }
-    public Boolean successMsgPC()
+    public Boolean successMsgPC_displayed()
     {
     	return SuccessMessageProductcompare.isDisplayed();
+    }
+    
+    public void PCPage_click()
+    {
+    	productcomparsionPage.click();
+    }
+    public void ListView_click()
+    {
+    	listview_button.click();
+    }
+    
+    public void GridView_click()
+    {
+    	Gridview_button.click();
+    }
+    
+    public void PC_link_Page() 
+    {
+    	ProductcompareLinkPage.click();
     }
 
 }

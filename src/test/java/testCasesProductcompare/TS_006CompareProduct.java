@@ -17,13 +17,16 @@ public class TS_006CompareProduct extends BaseClass {
 		sp.searchtxt(p.getProperty("searchproductId"));
 		sp.searchclick();
 		
+		
+		
 		ProductComparePage pcp=new ProductComparePage(driver);
+		
 		
 		pcp.CommonPCclick();
 		
 		
 			
-		Assert.assertTrue(pcp.successMsgPC());
+		Assert.assertTrue(pcp.successMsgPC_displayed());
 		
 		
 		}

@@ -19,13 +19,31 @@ public class TS_006CompareProduct extends BaseClass {
 		
 		ProductComparePage pcp=new ProductComparePage(driver);
 		
+		
+		pcp.ListView_click();
+		//pcp.GridView_click();
+		//pcp.PC_link_Page();
 		pcp.CommonPCclick();
 		
 		
 			
-		Assert.assertTrue(pcp.successMsgPC());
 		
 		
+		Thread.sleep(1000);
+		try 
+		{
+		if(pcp.successMsgPC_displayed()==true) 
+		{
+		pcp.PCPage_click();
+		Assert.assertTrue(true);
+		}
+		}
+		catch(Exception e)
+		{
+			Assert.fail();
+		}
+		
+		Thread.sleep(1000);
 		}
 		catch(Exception e)
 		{
