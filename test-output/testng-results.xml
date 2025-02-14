@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-11T11:13:27 IST" name="Suite" finished-at="2025-02-11T11:13:36 IST" duration-ms="9154">
+  <suite started-at="2025-02-14T23:18:44 IST" name="Suite" finished-at="2025-02-14T23:19:06 IST" duration-ms="22284">
     <groups>
     </groups>
-    <test started-at="2025-02-11T11:13:27 IST" name="Test" finished-at="2025-02-11T11:13:36 IST" duration-ms="9154">
+    <test started-at="2025-02-14T23:18:44 IST" name="Test" finished-at="2025-02-14T23:19:06 IST" duration-ms="22284">
       <class name="testCases.TS_006CompareProduct">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-11T11:13:27 IST" name="setup" finished-at="2025-02-11T11:13:30 IST" duration-ms="2866" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-14T23:18:45 IST" name="setup" finished-at="2025-02-14T23:19:00 IST" duration-ms="15193" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyproductcompare()[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-11T11:13:30 IST" name="verifyproductcompare" finished-at="2025-02-11T11:13:33 IST" duration-ms="2836" status="PASS">
+        <test-method signature="verifyproductcompare()[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-14T23:19:00 IST" name="verifyproductcompare" finished-at="2025-02-14T23:19:03 IST" duration-ms="3577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyproductcompare -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-11T11:13:33 IST" name="teardown" finished-at="2025-02-11T11:13:36 IST" duration-ms="3123" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TS_006CompareProduct@59474f18]" started-at="2025-02-14T23:19:03 IST" name="teardown" finished-at="2025-02-14T23:19:06 IST" duration-ms="3072" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
